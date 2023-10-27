@@ -1,8 +1,8 @@
 - 👋 Hi, I’m pipixiangz
-- 👀 I’m interested in mobile games(Honor of Kings)
-- 🌱 I’m currently a student at Beijing Jiaotong University majoring in Computer Science  
-- 💞️ I’m applying for post-graduate study
-- 📫 How to reach me: 763038134@qq.com / weChat: pipixiangz
+- 👀 I’m looking for a job in software development and artificial intelligence
+- 🌱 I’m currently pursuing my master's degree at the National University of Singapore, majoring in Intelligent Systems(AI)
+- 💞️ I had my dual Bachelor's Degree in Beijing Jiaotong University in Computer Science and MIS
+- 📫 How to reach me: 763038134@qq.com / WeChat: pipixiangz
 
 <!---
 pipixiangz/pipixiangz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
