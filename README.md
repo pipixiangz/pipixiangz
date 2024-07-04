@@ -3,7 +3,7 @@
 - 🌱 I'm currently pursuing my Master's Degree at National University of Singapore(NUS)
 - 🤖 Majoring in Artificial Intelligence Systems(AIS)
 - 🧑🏻‍🎓 I had my dual Bachelor's Degree from Beijing Jiaotong University in Computer Science and MIS
-- 📫 How to reach me: 763038134@qq.com / WeChat: pipixiangz
+- 📫 How to reach me: xiang.zhao@u.nus.edu / WeChat: pipixiangz
 - 🟦 Linkedin: https://www.linkedin.com/in/zhaoxiangnus/
 
 <!---
