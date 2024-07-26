@@ -1,5 +1,5 @@
 - 👋 Hi, I’m pipixiangz
-- 👀 I’m looking for a job in Software Development(Java) or Machine Learning Engineer
+- 👀 I’m looking for a job in Software Development(Java) and Backend Engineer(Java)
 - 🌱 I'm currently pursuing my Master's Degree at National University of Singapore(NUS)
 - 🤖 Majoring in Artificial Intelligence Systems(AIS)
 - 🧑🏻‍🎓 I had my dual Bachelor's Degree from Beijing Jiaotong University in Computer Science and MIS
